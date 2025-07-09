@@ -36,22 +36,6 @@ The goal is to automate the process of ingesting, transforming, modeling, and lo
 [Azure Synapse Warehouse → Power BI / Analytics Tools]
 ---
 
-## 📂 Project Structure
-├── notebooks/
-│   ├── 1_autoloader_ingestion.py
-│   ├── 2_dlt_transformations.py
-│   └── 3_gold_layer_output.py
-├── dbt/
-│   ├── models/
-│   │   ├── staging/
-│   │   ├── fact/
-│   │   └── dimension/
-│   └── dbt_project.yml
-├── data/
-│   └── sample_csvs/
-├── README.md
-
----
 
 ## 📈 Features
 
